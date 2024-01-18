@@ -1,0 +1,5 @@
+Python 3.11.5
+pygame 2.5.2
+(Pillow) PIL 10.1.0
+NumPy 1.25.2
+customtkinter 5.2.1
